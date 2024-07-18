@@ -128,4 +128,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedTalal10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/syedTalal10/LeetCode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/syedTalal10/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/syedTalal10/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
