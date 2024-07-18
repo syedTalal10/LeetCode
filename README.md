@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedTalal10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/syedTalal10/LeetCode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/syedTalal10/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedTalal10/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedTalal10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedTalal10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/syedTalal10/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedTalal10/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/syedTalal10/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/syedTalal10/LeetCode/tree/master/0739-daily-temperatures) |
@@ -132,10 +134,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/syedTalal10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/syedTalal10/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/syedTalal10/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/syedTalal10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/syedTalal10/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/syedTalal10/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
