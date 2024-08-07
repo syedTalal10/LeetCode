@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/syedTalal10/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,10 +150,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/syedTalal10/LeetCode/tree/master/0022-generate-parentheses) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/syedTalal10/LeetCode/tree/master/0022-generate-parentheses) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,8 +179,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Number Theory
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/syedTalal10/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
