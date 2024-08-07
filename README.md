@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/syedTalal10/LeetCode/tree/master/0290-word-pattern) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/syedTalal10/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/syedTalal10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/syedTalal10/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedTalal10/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/syedTalal10/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedTalal10/LeetCode/tree/master/0011-container-with-most-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/syedTalal10/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedTalal10/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/syedTalal10/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/syedTalal10/LeetCode/tree/master/0739-daily-temperatures) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/syedTalal10/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
 | ------- |
