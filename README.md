@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/syedTalal10/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedTalal10/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/syedTalal10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/syedTalal10/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/syedTalal10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0554-brick-wall](https://github.com/syedTalal10/LeetCode/tree/master/0554-brick-wall) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/syedTalal10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/syedTalal10/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedTalal10/LeetCode/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/syedTalal10/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/syedTalal10/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -188,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/syedTalal10/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
