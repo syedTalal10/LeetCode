@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/syedTalal10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/syedTalal10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/syedTalal10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0554-brick-wall](https://github.com/syedTalal10/LeetCode/tree/master/0554-brick-wall) |
 | [0739-daily-temperatures](https://github.com/syedTalal10/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/syedTalal10/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/syedTalal10/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/syedTalal10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/syedTalal10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0554-brick-wall](https://github.com/syedTalal10/LeetCode/tree/master/0554-brick-wall) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
