@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/syedTalal10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/syedTalal10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/syedTalal10/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/syedTalal10/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/syedTalal10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/syedTalal10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/syedTalal10/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/syedTalal10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/syedTalal10/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/syedTalal10/LeetCode/tree/master/0290-word-pattern) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
