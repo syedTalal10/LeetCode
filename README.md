@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/syedTalal10/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/syedTalal10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/syedTalal10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/syedTalal10/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/syedTalal10/LeetCode/tree/master/0554-brick-wall) |
 | [0739-daily-temperatures](https://github.com/syedTalal10/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/syedTalal10/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/syedTalal10/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/syedTalal10/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/syedTalal10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/syedTalal10/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/syedTalal10/LeetCode/tree/master/0554-brick-wall) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/syedTalal10/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/syedTalal10/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedTalal10/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/syedTalal10/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/syedTalal10/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Dynamic Programming
 |  |
