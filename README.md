@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/syedTalal10/LeetCode/tree/master/0554-brick-wall) |
 | [0739-daily-temperatures](https://github.com/syedTalal10/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/syedTalal10/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/syedTalal10/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/syedTalal10/LeetCode/tree/master/0554-brick-wall) |
 | [1023-time-based-key-value-store](https://github.com/syedTalal10/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/syedTalal10/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/syedTalal10/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/syedTalal10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/syedTalal10/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Quickselect
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedTalal10/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/syedTalal10/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/syedTalal10/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
