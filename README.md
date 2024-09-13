@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/syedTalal10/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/syedTalal10/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedTalal10/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/syedTalal10/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/syedTalal10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedTalal10/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedTalal10/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/syedTalal10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/syedTalal10/LeetCode/tree/master/0090-subsets-ii) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Monotonic Stack
 |  |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/syedTalal10/LeetCode/tree/master/0090-subsets-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/syedTalal10/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Number Theory
